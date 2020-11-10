@@ -59,21 +59,21 @@ body {
 }
 
 .item-4 {
-  background-image: url("../img/.jpg");
+  background-image: url("../img/23-5.jpg");
 }
 
 .item-5 {
-  background-image: url("../img/.jpg");
+  background-image: url("../img/4.38.jpg");
 }
 .item-6 {
   background-image: url("../img/30-149.jpg");
 }
 .item-7 {
-  background-image: url("../img/32-28.jpg");
+  background-image: url("../img/28-139.jpg");
 }
 
 .item-8 {
-  background-image: url("../img/");
+  background-image: url("../img/4.0.jpg");
 }
 
 .item-9 {
@@ -162,6 +162,21 @@ body {
   opacity: 1;
   visibility: visible;
 }
+.price-table{
+	width:90%;
+  bottom: 0;
+  color: #202020;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  position:relative;
+	margin: 0px;
+	padding:0px;
+	display: table;
+	display: table-cell;
+}
+
 .footer {
   margin-top: 10.5rem;
   margin-bottom: 2rem;
